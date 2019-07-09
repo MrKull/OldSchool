@@ -1,2 +1,3 @@
 准备删除的文件
 hot_fix
+read by git
